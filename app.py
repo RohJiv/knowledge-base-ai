@@ -119,6 +119,8 @@ for msg in st.session_state["chat_history"]:
     with st.chat_message(msg["role"]):
         st.markdown(msg["content"])
 
+
+
 # ── Chat input ────────────────────────────────────────────────
 question = st.chat_input("Ask anything about your documents...")
 

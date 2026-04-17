@@ -9,7 +9,5 @@ pypdf
 streamlit
 python-dotenv
 sentence-transformers
-SpeechRecognition
-pyaudio
 python-docx
 docx2txt
