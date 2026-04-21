@@ -109,7 +109,7 @@ No personal data is logged or retained
 Phani Rajiv G
 Technical Program Manager | Cloud & AI Platforms
 📍 Hyderabad, India
-📧 phani.rg@outlook.com
+📧 phani.rg@gmail.com
 🔗 LinkedIn
 ---
 📄 License
